@@ -33,3 +33,11 @@ var pianoFun = function () {
 
     console.log(i,output)
   }
+
+
+favmusicFun();
+
+
+
+// var result = musicFun();
+// document.write(result);
